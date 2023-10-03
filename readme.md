@@ -14,26 +14,38 @@ This script allows users to analyze the overlap in the top 10 Google search resu
 ## Installation & Setup
 
 1. Clone the Repository
-```git clone https://path-to-your-repo.git
-cd path-to-your-repo```
+```bash
+git clone https://github.com/thetafferboy/serpsimilarity.git
+cd path-to-repo
+```
 
 2. Set Up a Virtual Environment (Optional but recommended)
-```python3 -m venv venv```
+```bash
+python3 -m venv venv
+```
 
 3. Activate the Virtual Environment
 
 - On macOS and Linux:
-```source venv/bin/activate```
+```bash
+source venv/bin/activate
+```
 
 - On Windows
-```.\venv\Scripts\activate```
+```bash
+.\venv\Scripts\activate
+```
 
 4. Install Required Libraries
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 1. Run the script
-```python3 search_analysis.py```
+```bash
+python3 search_analysis.py
+```
 
 2. Follow the on-screen prompts to select a Google TLD and enter your keywords.
 
