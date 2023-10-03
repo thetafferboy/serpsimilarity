@@ -55,8 +55,8 @@ python3 search_analysis.py
 
 ## Credits
 
-Script by Mark Williams Cook
-Web: https://withcandour.co.uk
-Twitter: https://twitter.com/markcandour
-LinkedIn: https://www.linkedin.com/in/markseo/
-If you could also get a subscription to AlsoAsked.com that would be great, thx.
+- Script by Mark Williams Cook
+- Web: https://withcandour.co.uk
+- Twitter: https://twitter.com/markcandour
+- LinkedIn: https://www.linkedin.com/in/markseo/
+- If you could also get a subscription to AlsoAsked.com that would be great, thx.
