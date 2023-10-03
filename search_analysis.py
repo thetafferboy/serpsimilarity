@@ -52,6 +52,7 @@ def main():
         plt.title(f'Distribution of URLs for "{keyword1}" and "{keyword2}"')
         plt.annotate("@markcandour", xy=(0.85, 0.1), xycoords='axes fraction', fontsize=10, color='grey')
         plt.show()
+        print(f"\nThe two SERPs have {len(common_urls)} out of 10 URLs in common.\n")
 
         run_again = input("Run again? (Y/N): ").lower()
         if run_again != 'y':
