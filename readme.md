@@ -57,6 +57,6 @@ python3 search_analysis.py
 
 - Script by Mark Williams Cook
 - Web: https://withcandour.co.uk
-- Twitter: https://twitter.com/markcandour
+- Bsky: https://bsky.app/profile/markwilliamscook.com
 - LinkedIn: https://www.linkedin.com/in/markseo/
 - If you could also get a subscription to AlsoAsked.com that would be great, thx.
